@@ -1,0 +1,45 @@
+.image{
+    float:left;
+}
+html{
+    background-image: url("images/programming_backgound.jpg");
+}
+.header {
+    color: white;
+    text-align: center;
+
+}
+.profile_image{
+    
+   border: 3px dashed white;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+ 
+}
+#footer {
+    color:lightblue;
+}
+main{
+    color: red;
+}
+h1{
+    color:maroon;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align:center;
+    
+}
+.programhelp {
+    float:left;
+    border:2px solid black;
+    margin-bottom: 20px;
+    background-color:grey;
+
+}
+.dreams{
+    float:right;
+    border:2px dashed black;
+    background-color:darkgrey;
+}
